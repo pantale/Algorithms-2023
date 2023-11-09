@@ -759,7 +759,7 @@ C Outputs of the subroutine
      + +w1(15,1) * xb15
      + +w1(16,1) * xb16
      + +w1(17,1) * xb17) / xrI(1)
-      dyieldDeqps(k,1) = xrO * (w1(1,2) * xb1
+      dyieldDeqps(k,2) = xrO * (w1(1,2) * xb1
      + +w1(2,2) * xb2
      + +w1(3,2) * xb3
      + +w1(4,2) * xb4
