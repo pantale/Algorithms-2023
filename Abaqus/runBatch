@@ -1,6 +1,6 @@
-abaqus job=Job-sigmoid input=Compression user=../3Cr2Mo-3-17-9-1-sigmoid.f double=both interactive ask_delete=OFF
-abaqus job=Job-exponential input=Compression user=../3Cr2Mo-3-17-9-1-exponential.f double=both interactive ask_delete=OFF
-abaqus job=Job-relu input=Compression user=../3Cr2Mo-3-17-9-1-relu.f double=both interactive ask_delete=OFF
-abaqus job=Job-softplus input=Compression user=../3Cr2Mo-3-17-9-1-softplus.f double=both interactive ask_delete=OFF
-abaqus job=Job-swish input=Compression user=../3Cr2Mo-3-17-9-1-swish.f double=both interactive ask_delete=OFF
-abaqus job=Job-tanh input=Compression user=../3Cr2Mo-3-17-9-1-tanh.f double=both interactive ask_delete=OFF
+abaqus job=Job-sigmoid input=Compression user=3Cr2Mo-3-17-9-1-sigmoid.f double=both interactive ask_delete=OFF
+abaqus job=Job-exponential input=Compression user=3Cr2Mo-3-17-9-1-exponential.f double=both interactive ask_delete=OFF
+abaqus job=Job-relu input=Compression user=3Cr2Mo-3-17-9-1-relu.f double=both interactive ask_delete=OFF
+abaqus job=Job-softplus input=Compression user=3Cr2Mo-3-17-9-1-softplus.f double=both interactive ask_delete=OFF
+abaqus job=Job-swish input=Compression user=3Cr2Mo-3-17-9-1-swish.f double=both interactive ask_delete=OFF
+abaqus job=Job-tanh input=Compression user=3Cr2Mo-3-17-9-1-tanh.f double=both interactive ask_delete=OFF
